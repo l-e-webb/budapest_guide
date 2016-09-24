@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Budaspest Guide</string>
+    <string name="landmarks_fragment_name">Landmarks</string>
+    <string name="landmarks_description">There are many famous landmarks in Budapest.</string>
+    <string name="bridges_fragment_name">Bridges</string>
+    <string name="bridges_description">There are 9 bridges which span the Danube, connecting Buda to Pest.  Here are a few of them.</string>
+    <string name="museums_fragment_name">Museums</string>
+    <string name="museums_description">Budapest is home to many fine art, history, and science museums, which display collections from around the world but, of course, specialize in Hungarian art and historical artifacts.</string>
+    <string name="music_fragment_name">Music</string>
+    <string name="music_description">While Vienna may have been home to Mozart and Beethoven, there is a rich history of music and music patronage in Budapest.  This is alive today in the form of many splendid concert spaces and classical music ensembles.</string>
+    <string name="basilica_name">St. Stephen\'s Basilica</string>
+    <string name="basilica_description">A famous basilica in the heart of Pest, in the eastern half of budapest.</string>
+    <string name="parliament_name">Parliament Building</string>
+    <string name="parliament_description">A majestic neo-gothic complex on the eastern bank of the Danube.</string>
+    <string name="chain_bridge_name">Chain Bridge</string>
+    <string name="chain_bridge_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus mi ac enim tincidunt efficitur. Sed at lorem tincidunt, sagittis mi ut, tempus ligula. Curabitur pulvinar urna a pulvinar molestie. </string>
+    <string name="liberty_bridge_name">Liberty Bridge</string>
+    <string name="liberty_bridge_description"> Donec tempus mi ac enim tincidunt efficitur. Sed at lorem tincidunt, sagittis mi ut, tempus ligula. Curabitur pulvinar urna a pulvinar molestie.</string>
+    <string name="fine_arts_museum_name">Museum of Fine Arts</string>
+    <string name="fine_arts_museum_description">Sed sagittis velit sed arcu ultricies, sed euismod orci dignissim. Aenean non sem eu orci feugiat commodo.</string>
+    <string name="national_museum_name">Hungarian National Museum</string>
+    <string name="national_museum_description">Duis nec eros tellus. Phasellus tempus feugiat orci, ac consequat augue ullamcorper non. Praesent ac nisi eget ligula consectetur accumsan.</string>
+    <string name="opera_house_name">Hungarian State Opera House</string>
+    <string name="opera_house_description">Curabitur placerat, tortor in tristique mattis, nisl nisl sodales neque, eget mollis odio purus placerat libero. Nunc vel egestas quam. Praesent ac venenatis lorem.</string>
+    <string name="bartok_concert_hall_name">Bela Bartok National Concert Hall</string>
+    <string name="bartok_concert_hall_description">Ut dignissim lacinia risus vel viverra. Curabitur molestie felis at pharetra commodo. Sed hendrerit condimentum elementum. Sed malesuada posuere purus ac luctus.</string>
+</resources>
