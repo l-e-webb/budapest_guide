@@ -36,7 +36,8 @@ class CustomFragmentPagerAdapter extends FragmentPagerAdapter {
                 args.putInt(AttractionFragment.DESCRIPTION_KEY, R.string.landmarks_description);
                 args.putIntArray(AttractionFragment.ATTRACTIONS_KEY, new int[]{
                         R.string.basilica_name,
-                        R.string.parliament_name
+                        R.string.parliament_name,
+                        R.string.liberty_statue_name
                 });
                 break;
             case BRIDGES_POSITION:
@@ -52,7 +53,9 @@ class CustomFragmentPagerAdapter extends FragmentPagerAdapter {
                 args.putInt(AttractionFragment.DESCRIPTION_KEY, R.string.museums_description);
                 args.putIntArray(AttractionFragment.ATTRACTIONS_KEY, new int[]{
                         R.string.fine_arts_museum_name,
-                        R.string.national_museum_name
+                        R.string.national_museum_name,
+                        R.string.buda_castle_name,
+                        R.string.dohany_synagogue_name
                 });
                 break;
             case MUSIC_POSITION:
@@ -60,7 +63,8 @@ class CustomFragmentPagerAdapter extends FragmentPagerAdapter {
                 args.putInt(AttractionFragment.DESCRIPTION_KEY, R.string.music_description);
                 args.putIntArray(AttractionFragment.ATTRACTIONS_KEY, new int[]{
                         R.string.opera_house_name,
-                        R.string.bartok_concert_hall_name
+                        R.string.bartok_concert_hall_name,
+                        R.string.liszt_academy_name
                 });
                 break;
         }
