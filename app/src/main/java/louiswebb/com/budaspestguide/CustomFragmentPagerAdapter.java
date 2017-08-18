@@ -7,7 +7,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-public class CustomFragmentPagerAdapter extends FragmentPagerAdapter {
+class CustomFragmentPagerAdapter extends FragmentPagerAdapter {
 
     final static int LANDMARKS_POSITION = 0;
     final static int BRIDGES_POSITION = 1;
@@ -16,7 +16,7 @@ public class CustomFragmentPagerAdapter extends FragmentPagerAdapter {
 
     Context context;
 
-    public CustomFragmentPagerAdapter(Context context, FragmentManager fm) {
+    CustomFragmentPagerAdapter(Context context, FragmentManager fm) {
         super(fm);
         this.context = context;
     }
